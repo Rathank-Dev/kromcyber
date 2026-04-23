@@ -10,7 +10,7 @@ export default function Home() {
   
   const socialLinks = [
     { icon: Send, href: 'https://t.me/kromcyber', label: 'Telegram', color: 'hover:text-sky-500 dark:hover:text-sky-300' },
-    { icon: MessageCircle, href: 'https://discord.gg/Wdk6mZVmRn', label: 'Discord', color: 'hover:text-indigo-600 dark:hover:text-indigo-400' },
+    { icon: MessageCircle, href: 'https://discord.gg/xUpx276YJ2', label: 'Discord', color: 'hover:text-indigo-600 dark:hover:text-indigo-400' },
     { icon: Facebook, href: 'https://web.facebook.com/profile.php?id=61572114373387', label: 'Facebook', color: 'hover:text-blue-700 dark:hover:text-blue-500' },
   ]
 
